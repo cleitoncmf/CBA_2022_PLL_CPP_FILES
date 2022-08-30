@@ -1,10 +1,29 @@
 cff-version: 1.2.0
-message: "Se usar este software, por favor cite-o."
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/0000-0003-4925-7248
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2021-08-11
+  - family-names: Catão
+    given-names: Fabiano da Silva
+  - family-names: Lessa
+    given-names: Dayane M.
+  - family-names: Freitas
+    given-names: Cleiton M.
+    orcid: https://orcid.org/0000-0002-6300-0521
+  - family-names: Tcheou
+    given-names: Michel P.
+    orcid: https://orcid.org/0000-0003-2068-2865
+  - family-names: Monteiro
+    given-names: Luís F. C.
+    orcid: https://orcid.org/0000-0002-8537-0785
+title: "CBA-2022 - Código fonte em c++ para implementação de PLLs monofásicos em FPGA"
+abstract: Este repositório contem códigos c++ para implementação de PLLs monofásicos em FPGAs da Xilinx.
+version: 1.0.0
+doi: 
+date-released: "2022-29-08"
+repository-code: https://github.com/cleitoncmf/CBA_2022_PLL_CPP_FILES
+contact:
+  - affiliation: Rio de Janeiro State University
+    email: cleiton.freitas@uerj.br
+    family-names: Freitas
+    given-names: Cleiton
+type: software
+year: 2022
