@@ -17,6 +17,7 @@ authors:
 title: "CBA-2022 - Código fonte em c++ para implementação de PLLs monofásicos em FPGA"
 abstract: Este repositório contem códigos c++ para implementação de PLLs monofásicos em FPGAs da Xilinx.
 version: 1.0.0
+year: 2022
 doi: 
 date-released: "2022-29-08"
 repository-code: https://github.com/cleitoncmf/CBA_2022_PLL_CPP_FILES
