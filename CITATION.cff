@@ -1,10 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Catão
-    given-names: Fabiano da Silva
-  - family-names: Lessa
-    given-names: Dayane M.
   - family-names: Freitas
     given-names: Cleiton M.
     orcid: https://orcid.org/0000-0002-6300-0521
@@ -14,6 +10,10 @@ authors:
   - family-names: Monteiro
     given-names: Luís F. C.
     orcid: https://orcid.org/0000-0002-8537-0785
+  - family-names: Catão
+    given-names: Fabiano da Silva
+  - family-names: Lessa
+    given-names: Dayane M.
 title: "CBA-2022 - Código fonte em c++ para implementação de PLLs monofásicos em FPGA"
 abstract: Este repositório contem códigos c++ para implementação de PLLs monofásicos em FPGAs da Xilinx.
 version: 1.0.0
